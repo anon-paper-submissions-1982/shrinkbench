@@ -1,3 +1,5 @@
+NOTE: this is an anonymous mirror of the official version, and is not updated regularly
+
 # ShrinkBench
 Benchmark library for neural network pruning written in PyTorch
 
